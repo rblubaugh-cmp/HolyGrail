@@ -1,0 +1,24 @@
+.waffle,
+.chocolate,
+.vanilla,
+.strawberry {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.waffle {
+  background: wheat;
+}
+
+.chocolate {
+  background: chocolate;
+}
+
+.vanilla {
+  background: seashell;
+}
+
+.strawberry {
+  background: pink;
+}
